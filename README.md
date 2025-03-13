@@ -1,12 +1,15 @@
-# Data-Visualisation-with Excel-
-
-Aim: To analyse the performance of a Bike Company.
+# An overview of the project.
+## Title: 
+Bike-sales Insights.
+### **Aim:** To analyse the performance of a Bike Company.
+To analysi the performance of a Bike company. To detemine the region that make the highest sales, the age brackets where they have market most. Their market by customers level of education. Average income per purchase. Marital status of customers that makes much purchase. Their market both gender and occupational wise.
+From the analysis the Company have more market in middle age bracket. They should focus much on areas with people in those age bracket.
 
 Data: ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Age-Brackets, Purchase-Bike.
 
 Source: Just IT
+# An overview of the project.
 
-Download-link: https://justit831-my.sharepoint.com/:x:/r/personal/chibuikeile_bootcamp_justit_co_uk/_layouts/15/Doc.aspx?sourcedoc=%7B76AA12B4-83DE-4E1D-85A8-D9F52F64FFFE%7D&file=Excel%20Project%20Dataset%20-%20Bike%20Sales%201.xlsx&action=default&mobileredirect=true
 
 in this project, i cleaned the dataset with Excel. Also I created a dashboard with Excel using the under listed Parameters:
 
