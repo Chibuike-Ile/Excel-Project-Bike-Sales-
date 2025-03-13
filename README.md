@@ -8,7 +8,6 @@ From the analysis the Company have more market in middle age bracket. They shoul
 Data: ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Age-Brackets, Purchase-Bike.
 
 Source: Just IT
-# An overview of the project.
 
 
 in this project, i cleaned the dataset with Excel. Also I created a dashboard with Excel using the under listed Parameters:
