@@ -44,7 +44,8 @@ I created the following pivot tables and its corresponding charts:
 
 
 
-# Also I created a dashboard with Excel using the under listed Parameters:
+## Also I created a dashboard with Excel using the under listed Parameters:
+
    Average Income per Purchase,
    Customer Age Brackect by Purchase,
    Customer Commute Distace by Purchase,
@@ -56,12 +57,12 @@ I also add slicers that can help one to navigate through region, marital status,
 
 
 
- # Findings:
+ ## Findings:
    The Company have more market in middle age bracket. 
    Those that commute within 0-1 mile makes the highest purchase. 
    Also male makes more purchase than the female.
    North America has the highest count of purchased bike.
 
-# Recommendation:
+## Recommendation:
   Investigating why North America has the biggest number of purchases is necessary to determine whether it will be released in other regions.
   They should focus much on areas with people in the middle age bracket.
