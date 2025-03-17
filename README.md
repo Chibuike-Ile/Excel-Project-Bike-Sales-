@@ -38,7 +38,8 @@ I created the following pivot tables and its corresponding charts:
 
 **Count of Purchased Bike by Region.**
 
-![Dashboard](https://github.com/user-attachments/assets/fb7663ee-99a1-492b-bad7-58b037eeb63e)
+![Count of Purchased Bike by Region](https://github.com/user-attachments/assets/e9f4e239-d714-4e7c-9dd0-6e62f200c34a)
+
 
 
 
