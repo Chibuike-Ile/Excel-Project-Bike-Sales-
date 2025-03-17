@@ -17,6 +17,7 @@ Source: Just IT
   **'Old'- 55 & above**
   **'Middle Age'- 31 to 54**
   **'Adolesent'- 1 to 30**
+[Excel Project Data set, Bike Sales](https://github.com/Chibuike-Ile/Excel-Project-Bike-Sales-/blob/main/Excel%20Project%20Dataset%20-%20Bike%20Sales.xlsx)
   
 ![Working sheet ](https://github.com/user-attachments/assets/030998a3-435c-4b9f-abf3-a928cc6760bf)
 
