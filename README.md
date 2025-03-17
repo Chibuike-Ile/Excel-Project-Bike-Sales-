@@ -12,25 +12,33 @@ To analysi the performance of a Bike company. To detemine the region that make t
 Source: Just IT
 
 
-
-# In this project, I cleaned the dataset with Excel. I created a column for age brackets to enhance the analysis with these conditions.
-  'Old'- 55 & above
-  'Middle Age'- 31 to 54
-  'Adolesent'- 1 to 30
+ In this project, I cleaned the dataset with Excel. I created a column for age brackets to enhance the analysis with these conditions.
+  **'Old'- 55 & above**
+  **'Middle Age'- 31 to 54**
+  **'Adolesent'- 1 to 30**
   
 ![Working sheet ](https://github.com/user-attachments/assets/030998a3-435c-4b9f-abf3-a928cc6760bf)
 
 
-# I created the following pivot tables and its corresponding charts:
+I created the following pivot tables and its corresponding charts:
 
- Average Income per Purchase.
+ **Average Income per Purchase.**
+ 
 ![Pivot table 1](https://github.com/user-attachments/assets/bce03cfa-83fe-4657-806e-8d554156e691)
 
-Customer Age Brackect by Purchase.
+**Customer Age Brackect by Purchase.**
+
 ![Pivot table 3](https://github.com/user-attachments/assets/28e5c850-3cdf-490d-9f6d-f69d6f5bd276)
 
-Customer Commute Distace by Purchase.
+**Customer Commute Distace by Purchase.**
+
 ![Pivot table 2](https://github.com/user-attachments/assets/1e4808f8-0ab1-4877-b4fb-82a712326258)
+
+**Count of Purchased Bike by Region.**
+
+![Pivot table 4](https://github.com/user-attachments/assets/ed7bb1f5-730b-43be-9808-553b4a789ea3)
+
+
 
 
 # Also I created a dashboard with Excel using the under listed Parameters:
