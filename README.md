@@ -13,10 +13,10 @@ To analysi the performance of a Bike company. To detemine the region that make t
 Source: Just IT
 
 
- In this project, I cleaned the dataset with Excel. I created a column for age brackets to enhance the analysis with these conditions.
-  **'Old'- 55 & above**
-  **'Middle Age'- 31 to 54**
-  **'Adolesent'- 1 to 30**
+ In this project, I cleaned the dataset with Excel. I make sure each column has the correct data type. For easy understanding of the report. I changed **M** to **Married** and **S** to **Single** in the **Marital Status column**. Also I changed **F** to **Female** and **M** to **Male** in the **Gender column**. I created a column for **age brackets** using the **'IF Function'** to enhance the analysis with these conditions.
+  (**'Old'- 55 & above,**
+  **'Middle Age'- 31 to 54,**
+  **'Adolesent'- 1 to 30**)
 [Excel Project Data set, Bike Sales](https://github.com/Chibuike-Ile/Excel-Project-Bike-Sales-/blob/main/Excel%20Project%20Dataset%20-%20Bike%20Sales.xlsx)
   
 ![Working sheet ](https://github.com/user-attachments/assets/030998a3-435c-4b9f-abf3-a928cc6760bf)
