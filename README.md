@@ -5,7 +5,8 @@
 ### **Aim:** To analyse the performance of a Bike Company.
 To analysi the performance of a Bike company. To detemine the region that make the highest purchase, the age brackets where they have market most. Their market by customers level of education. Average income per purchase. Marital status of customers that makes much purchase. Their market both gender and occupational wise.
 
-**Data:** ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Purchase-Bike.
+**Data:** ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Purchase-Bike. 
+[Excel Project Data set, Bike Sales](https://github.com/Chibuike-Ile/Excel-Project-Bike-Sales-/blob/main/Excel%20Project%20Dataset%20-%20Bike%20Sales.xlsx)
 
 ![Bike buyer data set](https://github.com/user-attachments/assets/43cb33dc-b96b-44b6-83a3-e4e138f41a78)
 
