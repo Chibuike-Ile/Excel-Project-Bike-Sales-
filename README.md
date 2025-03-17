@@ -1,13 +1,18 @@
 # An overview of the project.
-## Title: 
-Bike-sales Insights.
+## Title:
+**Bike-sales Insights.**
+
 ### **Aim:** To analyse the performance of a Bike Company.
 To analysi the performance of a Bike company. To detemine the region that make the highest sales, the age brackets where they have market most. Their market by customers level of education. Average income per purchase. Marital status of customers that makes much purchase. Their market both gender and occupational wise.
 From the analysis the Company have more market in middle age bracket. They should focus much on areas with people in those age bracket.
 
-Data: ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Age-Brackets, Purchase-Bike.
+**Data:** ID, Marital-Status, Gender, Income, Children, Education, Occupation, Home-Owner, Cars, Commute-Distance, Region, Age, Age-Brackets, Purchase-Bike.
+
+
+![Working sheet 2](https://github.com/user-attachments/assets/1844aaf1-e12e-40b2-ba91-aef3219b99ae)
 
 Source: Just IT
+
 
 
 in this project, i cleaned the dataset with Excel. Also I created a dashboard with Excel using the under listed Parameters:
